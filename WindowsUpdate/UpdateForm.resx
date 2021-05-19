@@ -1,0 +1,197 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="$this.Icon" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        AAABAAEAICAAAAEAIACoEAAAFgAAACgAAAAgAAAAQAAAAAEAIAAAAAAAABAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADvrQAA760AAO+tAAPvrQAO760AH++tADbvrQBU760Adu+t
+        AJrvrQC/760ArwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAA760AAO+tAADvrQAD760ADe+tABzvrQAy760ATO+tAGnvrQCJ760Ap++tAMPvrQDa760A6++t
+        APfvrQD+760A/++tAP/vrQDPAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAO+tAADvrQAA760ABu+t
+        ABLvrQAj760AMO+tAAbvrQA3760Aje+tAKvvrQDH760A3e+tAO7vrQD6760A/++tAP/vrQD/760A/++t
+        AP/vrQD/760A/++tAP/vrQD/760A/++tAM/vrQAA760AAe+tAAnvrQAW760AKO+tAEDvrQBc760Aeu+t
+        AJnvrQC2760Az++tAOXvrQDS760AF++tAHTvrQD/760A/++tAP/vrQD/760A/++tAP/vrQD/760A/++t
+        AP/vrQD/760A/++tAP/vrQD/760A/++tAP/vrQD/760Az++tAITvrQCh760Ave+tANXvrQDo760A9u+t
+        AP3vrQD/760A/++tAP/vrQD/760A/++tAN3vrQAY760Ade+tAP/vrQD/760A/++tAP/vrQD/760A/++t
+        AP/vrQD/760A/++tAP/vrQD/760A/++tAP/vrQD/760A/++tAP/vrQDP760A/e+tAP/vrQD/760A/++t
+        AP/vrQD/760A/++tAP/vrQD/760A/++tAP/vrQD/760A3e+tABjvrQB1760A/++tAP/vrQD/760A/++t
+        AP/vrQD/760A/++tAP/vrQD/760A/++tAP/vrQD/760A/++tAP/vrQD/760A/++tAM/vrQD9760A/++t
+        AP/vrQD/760A/++tAP/vrQD/760A/++tAP/vrQD/760A/++tAP/vrQDd760AGO+tAHXvrQD/760A/++t
+        AP/vrQD/760A/++tAP/vrQD/760A/++tAP/vrQD/760A/++tAP/vrQD/760A/++tAP/vrQD/760Az++t
+        AP3vrQD/760A/++tAP/vrQD/760A/++tAP/vrQD/760A/++tAP/vrQD/760A/++tAN3vrQAY760Adu+t
+        AP/vrQD/760A/++tAP/vrQD/760A/++tAP/vrQD/760A/++tAP/vrQD/760A/++tAP/vrQD/760A/++t
+        AP/vrQDP760A/e+tAP/vrQD/760A/++tAP/vrQD/760A/++tAP/vrQD/760A/++tAP/vrQD/760A3e+t
+        ABjvrQB2760A/++tAP/vrQD/760A/++tAP/vrQD/760A/++tAP/vrQD/760A/++tAP/vrQD/760A/++t
+        AP/vrQD/760A/++tAM/vrQD9760A/++tAP/vrQD/760A/++tAP/vrQD/760A/++tAP/vrQD/760A/++t
+        AP/vrQDd760AGO+tAHfvrQD/760A/++tAP/vrQD/760A/++tAP/vrQD/760A/++tAP/vrQD/760A/++t
+        AP/vrQD/760A/++tAP/vrQD/760Az++tAP3vrQD/760A/++tAP/vrQD/760A/++tAP/vrQD/760A/++t
+        AP/vrQD/760A/++tAN3vrQAY760Ad++tAP/vrQD/760A/++tAP/vrQD/760A/++tAP/vrQD/760A/++t
+        AP/vrQD/760A/++tAP/vrQD/760A/++tAP/vrQDP760A/e+tAP/vrQD/760A/++tAP/vrQD/760A/++t
+        AP/vrQD/760A/++tAP/vrQD/760A3e+tABfvrQB4760A/++tAP/vrQD/760A/++tAP/vrQD/760A/++t
+        AP/vrQD/760A/++tAP/vrQD/760A/++tAP/vrQD/760A/++tANDvrQD9760A/++tAP/vrQD/760A/++t
+        AP/vrQD/760A/++tAP/vrQD/760A/++tAP/vrQDc760AF++tAHjvrQD/760A/++tAP/vrQD/760A/++t
+        AP/vrQD/760A/++tAP/vrQD/760A/++tAP/vrQD/760A/++tAP/vrQD/760A0O+tAP3vrQD/760A/++t
+        AP/vrQD/760A/++tAP/vrQD/760A/++tAP/vrQD/760A/++tANzvrQAX760Aee+tAP/vrQD/760A/++t
+        AP/vrQD/760A/++tAP/vrQD/760A/++tAP/vrQD/760A/++tAP/vrQD/760A/++tAP/vrQDQ760A/e+t
+        AP/vrQD/760A/++tAP/vrQD+760A/u+tAP7vrQD+760A/e+tAP3vrQD/760A2u+tABfvrQB1760A+e+t
+        APbvrQD2760A9u+tAPbvrQD2760A9e+tAPXvrQD1760A9e+tAPXvrQD1760A9e+tAPXvrQD0760A9u+t
+        AMfvrQBf760AX++tAF3vrQBc760AWu+tAFnvrQBY760AVu+tAFXvrQBU760AUu+tAFLvrQBF760AB++t
+        AB3vrQA+760APe+tADzvrQA8760APO+tADvvrQA7760AO++tADvvrQA6760AOu+tADrvrQA6760AOu+t
+        ADnvrQA5760ALu+tAFXvrQBU760AU++tAFLvrQBR760AUO+tAE/vrQBN760ATO+tAEvvrQBK760ASe+t
+        AD7vrQAH760AHu+tAELvrQBA760APu+tAD3vrQA7760AOu+tADjvrQA3760ANu+tADTvrQAz760AMe+t
+        ADDvrQAv760ALe+tACzvrQAj760A/O+tAP7vrQD9760A/e+tAP3vrQD8760A/O+tAPzvrQD8760A+++t
+        APvvrQD9760A2e+tABjvrQBw760A+++tAPfvrQD3760A9u+tAPbvrQD1760A9O+tAPTvrQDz760A8u+t
+        APLvrQDx760A8O+tAO/vrQDu760A7++tAMDvrQD9760A/++tAP/vrQD/760A/++tAP/vrQD/760A/++t
+        AP/vrQD/760A/++tAP/vrQDe760AGO+tAHTvrQD/760A/++tAP/vrQD/760A/++tAP/vrQD/760A/++t
+        AP/vrQD/760A/++tAP/vrQD/760A/++tAP/vrQD/760Az++tAP7vrQD/760A/++tAP/vrQD/760A/++t
+        AP/vrQD/760A/++tAP/vrQD/760A/++tAN7vrQAY760AdO+tAP/vrQD/760A/++tAP/vrQD/760A/++t
+        AP/vrQD/760A/++tAP/vrQD/760A/++tAP/vrQD/760A/++tAP/vrQDP760A/u+tAP/vrQD/760A/++t
+        AP/vrQD/760A/++tAP/vrQD/760A/++tAP/vrQD/760A3u+tABjvrQB0760A/++tAP/vrQD/760A/++t
+        AP/vrQD/760A/++tAP/vrQD/760A/++tAP/vrQD/760A/++tAP/vrQD/760A/++tAM/vrQD+760A/++t
+        AP/vrQD/760A/++tAP/vrQD/760A/++tAP/vrQD/760A/++tAP/vrQDe760AGO+tAHTvrQD/760A/++t
+        AP/vrQD/760A/++tAP/vrQD/760A/++tAP/vrQD/760A/++tAP/vrQD/760A/++tAP/vrQD/760Az++t
+        AP7vrQD/760A/++tAP/vrQD/760A/++tAP/vrQD/760A/++tAP/vrQD/760A/++tAN3vrQAY760AdO+t
+        AP/vrQD/760A/++tAP/vrQD/760A/++tAP/vrQD/760A/++tAP/vrQD/760A/++tAP/vrQD/760A/++t
+        AP/vrQDP760A/u+tAP/vrQD/760A/++tAP/vrQD/760A/++tAP/vrQD/760A/++tAP/vrQD/760A3e+t
+        ABjvrQB0760A/++tAP/vrQD/760A/++tAP/vrQD/760A/++tAP/vrQD/760A/++tAP/vrQD/760A/++t
+        AP/vrQD/760A/++tAM/vrQD+760A/++tAP/vrQD/760A/++tAP/vrQD/760A/++tAP/vrQD/760A/++t
+        AP/vrQDd760AGO+tAHTvrQD/760A/++tAP/vrQD/760A/++tAP/vrQD/760A/++tAP/vrQD/760A/++t
+        AP/vrQD/760A/++tAP/vrQD/760Az++tAP/vrQD/760A/++tAP/vrQD/760A/++tAP/vrQD/760A/++t
+        AP/vrQD/760A/++tAN3vrQAY760AdO+tAP/vrQD/760A/++tAP/vrQD/760A/++tAP/vrQD/760A/++t
+        AP/vrQD/760A/++tAP/vrQD/760A/++tAP/vrQDP760A/++tAP/vrQD/760A/++tAP/vrQD/760A/++t
+        AP/vrQD/760A/++tAP/vrQD/760A3e+tABjvrQB0760A/++tAP/vrQD/760A/++tAP/vrQD/760A/++t
+        AP/vrQD/760A/++tAP/vrQD/760A/++tAP/vrQD/760A/++tAM/vrQCP760Aqu+tAMXvrQDb760A7O+t
+        APjvrQD+760A/++tAP/vrQD/760A/++tAP/vrQDd760AGO+tAHTvrQD/760A/++tAP/vrQD/760A/++t
+        AP/vrQD/760A/++tAP/vrQD/760A/++tAP/vrQD/760A/++tAP/vrQD/760Az++sAADvrQAD760ADO+t
+        ABvvrQAu760AR++tAGTvrQCC760AoO+tALzvrQDU760A6e+tANPvrQAX760AdO+tAP/vrQD/760A/++t
+        AP/vrQD/760A/++tAP/vrQD/760A/++tAP/vrQD/760A/++tAP/vrQD/760A/++tAP/vrQDPAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAO+tAADvrQAB760ACO+tABXvrQAo760ANO+tAAbvrQA9760Ane+t
+        ALrvrQDU760A6O+tAPbvrQD+760A/++tAP/vrQD/760A/++tAP/vrQD/760A/++tAP/vrQD/760A/++t
+        AM8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAO+t
+        AADvrQAB760AB++tABXvrQAo760AQe+tAF/vrQB/760An++tAL3vrQDW760A6e+tAPbvrQD9760A/++t
+        AP/vrQD/760AzwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAO+tAADvrQAB760ACu+tABvvrQAy760AUO+t
+        AHLvrQCX760AvO+tAN/vrQDG///+AP//AAD/gAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAIAAAAD/AAAA//4AAP///AA=
+</value>
+  </data>
+</root>
