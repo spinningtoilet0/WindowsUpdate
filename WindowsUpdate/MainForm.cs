@@ -76,7 +76,6 @@ namespace WindowsUpdate
             WindowState = FormWindowState.Normal;
             Focus();
             TrayIcon.Visible = false;
-            StopNotif();
         }
 
         private void CancelBtn_Click(object sender, EventArgs e)
